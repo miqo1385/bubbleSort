@@ -27,3 +27,9 @@ Bubble Sort is typically stable, meaning it maintains the relative order of equa
 elements in the sorted array. This means that if two elements in the original array 
 are equal, and one precedes the other, they will remain in the same order after sorting.
 
+Report:
+
+the most excited part of this report is when the algorithms is in descending order and when
+all the elements are the same. as we mentioned before the need to perform multiple passes 
+through the array, results in an O(n^2) time complexity in both the average and worst 
+cases, what we mean regardless of the correct order of the array the time complexity will be the same
